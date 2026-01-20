@@ -1,0 +1,7 @@
+{
+  "name": "Inson Huquqlari Milliy Markazi",
+  "description": "O'zbekiston Respublikasi Inson huquqlari bo'yicha milliy markazining rasmiy veb-sayti. Imkoniyati cheklanganlar uchun qulayliklar, yangiliklar va interaktiv xizmatlar bilan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
